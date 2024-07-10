@@ -53,6 +53,7 @@ See also
 
 [![codecov](https://codecov.io/gh/author_name/project_urlname/branch/main/graph/badge.svg?token=project_urlname_token_here)](https://codecov.io/gh/author_name/project_urlname)
 [![CI](https://github.com/author_name/project_urlname/actions/workflows/main.yml/badge.svg)](https://github.com/author_name/project_urlname/actions/workflows/main.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJimJoJo2020%2Ffastapi-project.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJimJoJo2020%2Ffastapi-project?ref=badge_shield)
 
 project_description
 
@@ -280,3 +281,7 @@ Read more on https://dynaconf.com
 ## Development
 
 Read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJimJoJo2020%2Ffastapi-project.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJimJoJo2020%2Ffastapi-project?ref=badge_large)
